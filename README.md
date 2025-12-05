@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm **Gyalzen Sherpa**
 
-<!--
-**gyaljen123-sudo/gyaljen123-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m passionate about learning, building, and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently improving my skills and learning new tools  
+- 💻 Interested in software development, problem-solving, and tech creativity  
+- 🤝 Open to collaboration and meaningful projects  
+- 📫 Reach me anytime through GitHub
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** Python, JavaScript, C/C++, HTML/CSS  
+- **Tools:** Git, VS Code, Node.js  
+- **Interests:** Web development, automation, open-source projects
+
+---
+
+## 📊 GitHub Stats
+![Gyalzen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyalzensherpa&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gyalzensherpa&layout=compact&theme=tokyonight)
+
+---
+
+## ✨ Thanks for Visiting!
+If you like my work, feel free to ⭐ my repositories or follow me!
