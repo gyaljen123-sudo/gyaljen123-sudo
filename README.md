@@ -66,4 +66,4 @@ Worked as a **Cyber Security Engineer at BSSIT Solutions**, supporting Cylance e
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gyelzen%20Sherpa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakpa-sherpa-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gyelzen%20Sherpa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyelzen-sherpa-624751b9/)
