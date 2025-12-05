@@ -21,7 +21,7 @@
 <h2 align="left">🌱 About Me</h2>
 
 Cybersecurity professional with experience in endpoint protection, email security, threat hunting, and real-world SOC operations.  
-Currently pursuing a **Bachelor’s in Cybersecurity & Information Assurance at Western Governors University** while sharpening my skills in threat detection, SIEM monitoring, incident response, and network defense.
+Currently pursuing a **Bachelor’s in Cybersecurity & Information Assurance at Western Governors University**, while sharpening my skills in threat detection, SIEM monitoring, incident response, and network defense.
 
 Worked as a **Cyber Security Engineer at BSSIT Solutions**, supporting Cylance endpoint security, threat monitoring, phishing investigations, and user security awareness.
 
@@ -53,14 +53,30 @@ Worked as a **Cyber Security Engineer at BSSIT Solutions**, supporting Cylance e
 
 <br>
 
-## 🖥️ Cybersecurity & IT Projects
+# 🚀 Featured Project  
+## 🔐 **SecurePi Cloud – Encrypted Self-Hosted Cloud Storage Platform**
+A fully secured, self-hosted cloud storage solution built on a **Raspberry Pi 5** using **Nextcloud**, featuring **full OS hardening**, **encrypted storage**, and **VPN-secured remote access**.
 
-| # | Project | Description |
-|---|---------|-------------|
-| 1 | **Cybersecurity Homelab (In progress)** | Building a virtual enterprise network with AD, firewall rules, vulnerability scans, and SIEM log monitoring |
-| 2 | [Network Security & Vulnerability Assessment](https://github.com/Sherpa-Sec/Network_Scan_and_Vulnerability_Assessment) | Performed Nessus/Nmap scanning, documented vulnerabilities, and wrote remediation steps |
-| 3 | [Jira Ticket Workflow Simulation](https://github.com/Sherpa-Sec/Helpdesk_Ticket_Lab) | Completed six help desk workflows using Jira Service Management |
-| 4 | [Wireless Security Assessment](https://github.com/Sherpa-Sec/Wireless-Network-Security-Assessment) | Audited home/public Wi-Fi, identified misconfigurations, and implemented security improvements |
+### **🔧 Key Technical Components**
+- Raspberry Pi 5 running **Raspberry Pi OS Lite (64-bit)**
+- **Nextcloud** deployed on a **LAMP stack**
+- **WireGuard VPN**, **UFW Default Deny Firewall**, **DuckDNS DDNS**
+- **LUKS full-disk encryption** for external storage
+- **HTTPS/TLS** enforced using **Let’s Encrypt**
+- **TOTP (2FA)** for user authentication
+- **SSH hardened** with key-based authentication only
+
+### **🔐 Security Outcomes**
+- Data protected using **multiple layers of encryption** (LUKS + Nextcloud SSE)
+- Remote access restricted to **VPN only**, reducing attack surface
+- System hardened following IAM, network security, and OS security best practices
+- Full disaster recovery process implemented with **LUKS unlock procedures** and a **3-2-1 backup strategy**
+
+### **📄 Full Documentation**
+- **Phase 1 – OS Hardening:** https://github.com/gyaljen123-sudo/Secure-Pi-Cloud/blob/main/Phase1.md  
+- **Phase 2 – Storage Setup:** https://github.com/gyaljen123-sudo/Secure-Pi-Cloud/blob/main/Phase2.md  
+- **Phase 3 – Deployment:** https://github.com/gyaljen123-sudo/Secure-Pi-Cloud/blob/main/Phase3.md  
+- **Disaster Recovery:** https://github.com/gyaljen123-sudo/Secure-Pi-Cloud/blob/main/DisasterRecovery.md  
 
 <br>
 
