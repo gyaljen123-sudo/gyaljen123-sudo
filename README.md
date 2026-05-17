@@ -1,4 +1,4 @@
-[GitHub_README.md](https://github.com/user-attachments/files/27865868/GitHub_README.md)
+
 <p align="left">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=39FF14&center=false&vCenter=true&width=700&lines=Always+Learning%2C+Building%2C+Growing+%26+Evolving" 
