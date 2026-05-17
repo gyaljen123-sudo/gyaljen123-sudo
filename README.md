@@ -1,3 +1,4 @@
+[GitHub_README.md](https://github.com/user-attachments/files/27865868/GitHub_README.md)
 <p align="left">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=39FF14&center=false&vCenter=true&width=700&lines=Always+Learning%2C+Building%2C+Growing+%26+Evolving" 
@@ -9,7 +10,7 @@
 <br>
 
 <p align="left">
-  🎓 <b>Cybersecurity Student @ WGU</b> |
+  🎓 <b>WGU Cybersecurity Graduate</b> |
   🛡️ <b>SOC Analyst</b> |
   🌐 <b>Tech Enthusiast</b> |
   🔍 <b>Threat Hunter</b> |
@@ -20,10 +21,9 @@
 
 <h2 align="left">🌱 About Me</h2>
 
-Cybersecurity professional with experience in endpoint protection, email security, threat hunting, and real-world SOC operations.  
-Currently pursuing a **Bachelor’s in Cybersecurity & Information Assurance at Western Governors University**, while sharpening my skills in threat detection, SIEM monitoring, incident response, and network defense.
+Cybersecurity professional with a **Purple Team certification stack** (CySA+, PenTest+, SSCP) and hands-on experience in SIEM log analysis, threat hunting, endpoint detection, and infrastructure hardening.
 
-Worked as a **Cyber Security Engineer at BSSIT Solutions**, supporting Cylance endpoint security, threat monitoring, phishing investigations, and user security awareness.
+Recently graduated with a **Bachelor's in Cybersecurity & Information Assurance from Western Governors University**, while actively building skills through home lab projects and real-world simulations on TryHackMe, AIG Forage, and Mastercard Forage.
 
 *Fun fact:* I enjoy anime, cycling, traveling, and exploring new cultures and food.
 
@@ -36,12 +36,14 @@ Worked as a **Cyber Security Engineer at BSSIT Solutions**, supporting Cylance e
 | **Operating Systems & Homelab** | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat&logo=kali-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat&logo=windows&logoColor=white) |
 | **Programming & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-2CA5E0?style=flat&logo=powershell&logoColor=white) |
 | **Applications & Tools** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-EB3C00?style=flat&logo=microsoft&logoColor=white) |
-| **Security, Networking & Monitoring** | ![Cylance](https://img.shields.io/badge/Cylance-00A300?style=flat) ![Nessus](https://img.shields.io/badge/Nessus-009E73?style=flat&logo=tenable&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-0B5FFF?style=flat) ![Active Directory](https://img.shields.io/badge/Active%20Directory-0067B8?style=flat&logo=windows&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0078D6?style=flat) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
+| **Security, Networking & Monitoring** | ![Nessus](https://img.shields.io/badge/Nessus-009E73?style=flat&logo=tenable&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-0B5FFF?style=flat) ![Active Directory](https://img.shields.io/badge/Active%20Directory-0067B8?style=flat&logo=windows&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0078D6?style=flat) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
 
 <br>
 
 ## 🛡️ Certifications
 
+![CompTIA PenTest+](https://img.shields.io/badge/PenTest%2B-EA4C89?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA CySA+](https://img.shields.io/badge/CySA%2B-FF6B00?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-EA4C2A?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA%20Network%2B-0072C6?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-DA3A32?style=for-the-badge&logo=comptia&logoColor=white)
@@ -62,7 +64,7 @@ A fully secured, self-hosted cloud storage solution built on a **Raspberry Pi 5*
 - **Nextcloud** deployed on a **LAMP stack**
 - **WireGuard VPN**, **UFW Default Deny Firewall**, **DuckDNS DDNS**
 - **LUKS full-disk encryption** for external storage
-- **HTTPS/TLS** enforced using **Let’s Encrypt**
+- **HTTPS/TLS** enforced using **Let's Encrypt**
 - **TOTP (2FA)** for user authentication
 - **SSH hardened** with key-based authentication only
 
@@ -77,6 +79,16 @@ A fully secured, self-hosted cloud storage solution built on a **Raspberry Pi 5*
 - **Phase 2 – Storage Setup:** https://github.com/gyaljen123-sudo/Secure-Pi-Cloud/blob/main/Phase2.md  
 - **Phase 3 – Deployment:** https://github.com/gyaljen123-sudo/Secure-Pi-Cloud/blob/main/Phase3.md  
 - **Disaster Recovery:** https://github.com/gyaljen123-sudo/Secure-Pi-Cloud/blob/main/DisasterRecovery.md  
+
+<br>
+
+## 📊 Simulation Training
+
+| Platform | Focus |
+|---|---|
+| 🛡️ AIG Shields Up (Forage) | Malware analysis, SIEM log investigation, lateral movement detection |
+| 💳 Mastercard Cybersecurity (Forage) | OSQuery threat hunting, unauthorized endpoint change detection |
+| 🟥 TryHackMe SOC Path | Alert triage, detection engineering, incident response workflows |
 
 <br>
 
